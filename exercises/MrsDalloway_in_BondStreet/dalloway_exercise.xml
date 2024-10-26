@@ -40,6 +40,7 @@
             </bibl>
          </sourceDesc>
       </fileDesc>
+
       <encodingDesc>
          <projectDesc>
             <p>This encoded file was created by Diane Jakacki and made available for a Linked
@@ -52,6 +53,7 @@
       <body>
 
          <div>
+
             <pb cert="high" xml:space="default" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg" n="20"/>
 
             <head><title level="m">MRS DALLOWAY IN BOND STREET</title></head>
@@ -59,12 +61,13 @@
 
 
             <p>Mrs Dalloway said she would buy the gloves herself.</p>
+
             <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
-               said about us than that we walk the streets of Westminster. Big Ben too is nothing
+               said about us than that we walk the <placeName>streets of Westminster</placeName>. Big Ben too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
                Only for Mrs Dalloway the moment was complete; for Mrs Dalloway June was fresh. A
                happy childhood—and it was not to his daughters only that Justin Parry had seemed a
@@ -91,7 +94,7 @@
             <p>"We've just come up" said Hugh Whitbread. "Unfortunately to see doctors."</p>
             <p>"Milly?" said Mrs Dalloway, instantly compassionate.</p>
             <p>"Out of sorts," said Hugh Whitbread. "That sort of thing. Dick all right?"</p>
-            <p>"First rate!" said Clarissa.</p>
+            <p>"First rate!" said <persName cert="high" evidence="internal" full="yes" instant="unknown" type="character" xml:space="default">Clarissa</persName>.</p>
             <p>Of course, she thought, walking on, Milly is about my age—fifty—fifty-two. So it is
                probably that, Hugh's manner had said so, said it perfectly—dear old Hugh, thought
                Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how shy, like
@@ -102,8 +105,9 @@
                it; it's no use trying; and men like Hugh respect it without our saying it, which is
                what one loves, thought Clarissa, in dear old Hugh.</p>
             <p>She had passed through the Admiralty Arch and saw at the end of the empty road with
-               its thin trees Victoria's white mound, Victoria's billowing motherliness, amplitude
+               its thin trees <persName key="Victoria" ref="http://www.wikidata.org/entity/Q9439" type="real">Victoria</persName>'s white mound, Victoria's billowing motherliness, amplitude
                and homeliness, always ridiculous, yet how sublime, thought Mrs Dalloway, remembering
+
                and the old lady in horn spectacles and being told by Nanny to stop dead still and
                bow to the Queen. The flag flew above the Palace. The King and Queen were back then.
                Dick had met her at lunch the other day—a thoroughly nice woman. It matters so much
@@ -123,8 +127,9 @@
                Dighton had said, which she thought extraordinarily interesting, from a man like Sir
                Dighton. "Oh, the country will never know what it has lost" he had said, talking, of
                his own accord, about dear Jack Stewart.</p>
+
             <p>She mounted the little hill lightly. The air stirred with energy. Messages were
-               passing from the Fleet to the Admiralty. Piccadilly and Arlington Street and the Mall
+               passing from the Fleet to the Admiralty. <placeName key="Piccadilly" ref="http://www.wikidata.org/entity/Q1124023">Piccadilly</placeName> and Arlington Street and the Mall
                seemed to chafe the very air in the Park and lift its leaves hotly, brilliantly, upon
                waves of that divine vitality which Clarissa loved. To ride; to dance; she had adored
                all that. Or going long walks in the country, talking, about books, what to do with
@@ -134,6 +139,7 @@
                now can never mourn—how did it go?—a head grown grey. . . . From the contagion of the
                world's slow stain . . . have drunk their cup a round or two before. . . . From the
                contagion of the world's slow stain! She held herself upright.</p>
+
 
             <p>Omnibuses joined motor cars; motor cars vans; vans taxicabs; taxicabs motor cars—here
                was an open motor car with a girl, alone. Up till four, her feet tingling, I know,
